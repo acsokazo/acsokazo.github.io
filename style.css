@@ -1,0 +1,15 @@
+p {
+  background: green;
+}
+div {
+  background: blue;
+  padding: 20px;
+}
+h1 {
+  background: red;
+  padding: 20px;
+}
+h2 {
+  background: orange;
+  margin: 20px;
+}
